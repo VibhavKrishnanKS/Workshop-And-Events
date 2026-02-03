@@ -12,3 +12,4 @@ With python
 1. https://www.youtube.com/watch?v=5xqFjh56AwM - Dave Ebbelaar
 2. https://www.youtube.com/watch?v=MDBG2MOp4Go - Krish Naik
 3. https://www.youtube.com/watch?v=ZoZxQwp1PiM - MCP in Typescript
+4. 
